@@ -12,7 +12,7 @@
 
 <h3>Talking about Personal Stuff:</h3>
 
-- 🛠️ I’m currently working with **NextJs, NodeJs, ExpressJs, MongoDB, Javascript, React, HTML, CSS, Tailwind**
+- 🛠️ I’m currently working with **NextJs, NodeJs, ExpressJs, MongoDB, BetterAuth, Javascript, React, HTML, CSS, Tailwind**
 
 - 🚀 I'm currently exploring **Typescript**
 
