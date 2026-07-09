@@ -1,7 +1,7 @@
-<img src="images/Banner.png" alt="banner"/>
+<img src="images/New-banner.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Gazi Md Salauddin</h1>
-<h3 align="center">Frontend Developer | React | Javascript | HTML | CSS | Tailwind | Building clean and responsive web apps</h3>
+<h3 align="center">Mern Stack Developer | Nextjs | React | Javascript | Nodejs | Expressjs | MongoDB | HTML | CSS | Tailwind | Building clean and responsive web apps</h3>
 
   <a href="https://www.linkedin.com/in/gazi-md-salauddin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,7 +19,40 @@
 - 📫 Reach me out: **mdsalauddin329132@gmail.com**
 
 <h3>My Favourites:</h3>
+
 - 💻 I love exploring new technologies and building cool stuff.
 
-<h3 align="left">Languages & Frameworks & Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="50" height="50"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/git-original.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html5.svg" alt="html5" width="50" height="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="images/react.svg" alt="react" width="40" height="40"/></a> <a href="images/nextjs.svg" target="_blank" rel="noreferrer"> <img src="images/nextjs.svg" alt="nextjs" width="50" height="50"/></a> <a href="images/tailwind.png" target="_blank" rel="noreferrer"> <img src="images/tailwind.png" alt="tailwind" width="40" height="40"/></a> <a href="" target="_blank" rel="noreferrer"> <img src="images/30_github.c0a4dde53e.png" alt="github" width="40" height="40"/></a> </p>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> Technology Stack:</b>
+
+### Languages:
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,heroui)](https://skillicons.dev)
+
+### Javascript Frameworks & Libraries:
+[![Javascript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://skillicons.dev)
+
+### Authentication:
+<img src="https://cdn.simpleicons.org/betterauth" alt="Better Auth" width="40" height="40" />
+
+### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+### Deployment Tools:
+[![Deployment Tools](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+### Design Tools:
+[![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) 
+
+### 📊 Repository Stats & Streak
+
+| Repository Stats | GitHub Streak |
+| --- | --- |
+| <img src="https://github-contributor-stats.vercel.app/api?username=Gazi-Md-Salauddin&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /> | <img src="https://streak-stats.demolab.com?user=Gazi-Md-Salauddin&theme=default&hide_border=true" /> |
+
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gazi-Md-Salauddin&label=Profile%20views&color=0e75b6&style=flat" alt="Gazi-Md-Salauddin" /> </p>
