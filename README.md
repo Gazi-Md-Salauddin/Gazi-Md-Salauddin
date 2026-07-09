@@ -12,9 +12,9 @@
 
 <h3>Talking about Personal Stuff:</h3>
 
-- 🛠️ I’m currently working with **JS, React, HTML, CSS, Tailwind**
+- 🛠️ I’m currently working with **NextJs, NodeJs, ExpressJs, MongoDB, Javascript, React, HTML, CSS, Tailwind**
 
-- 🚀 I'm currently exploring **Next Js**
+- 🚀 I'm currently exploring **Typescript**
 
 - 📫 Reach me out: **mdsalauddin329132@gmail.com**
 
