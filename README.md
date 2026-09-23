@@ -25,28 +25,32 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> Technology Stack:</b>
 
 ### Languages:
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
+### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs)](https://skillicons.dev)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,heroui)](https://skillicons.dev)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-### Javascript Frameworks & Libraries:
-[![Javascript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://skillicons.dev)
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Authentication:
 <img src="https://cdn.simpleicons.org/betterauth" alt="Better Auth" width="40" height="40" />
 
 ### Database:
 [![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="45" height="45" />
 
-### Deployment Tools:
-[![Deployment Tools](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+### Deployment:
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
-### Design Tools:
-[![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+### Design:
+[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) 
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ### 📊 Repository Stats & Streak
 
