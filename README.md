@@ -1,4 +1,4 @@
-<img src="images/New-banner.png" alt="banner"/>
+<img src="images/BannerImage.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Gazi Md Salauddin</h1>
 <h3 align="center">Junior Full Stack Developer | Next.js | React | JavaScript | TypeScript | Node.js | Express.js | MongoDB | Mongoose | BetterAuth | HTML | CSS | Tailwind | Building clean and scalable web apps</h3>
