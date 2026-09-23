@@ -1,7 +1,7 @@
 <img src="images/New-banner.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Gazi Md Salauddin</h1>
-<h3 align="center">Mern Stack Developer | Nextjs | React | Javascript | Nodejs | Expressjs | MongoDB | HTML | CSS | Tailwind | Building clean and responsive web apps</h3>
+<h3 align="center">Junior Full Stack Developer | Next.js | React | JavaScript | TypeScript | Node.js | Express.js | MongoDB | Mongoose | BetterAuth | HTML | CSS | Tailwind | Building clean and scalable web apps</h3>
 
   <a href="https://www.linkedin.com/in/gazi-md-salauddin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,9 +12,9 @@
 
 <h3>Talking about Personal Stuff:</h3>
 
-- 🛠️ I’m currently working with **NextJs, NodeJs, ExpressJs, MongoDB, BetterAuth, Javascript, React, HTML, CSS, Tailwind**
+- 🛠️ I’m currently working with **NextJs, TypeScript, NodeJs, ExpressJs, MongoDB, BetterAuth, Javascript, React, HTML, CSS, Tailwind**
 
-- 🚀 I'm currently exploring **Typescript**
+- 🚀 I'm currently exploring **PostgreSql**
 
 - 📫 Reach me out: **mdsalauddin329132@gmail.com**
 
